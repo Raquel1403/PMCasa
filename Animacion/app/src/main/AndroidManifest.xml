@@ -13,6 +13,39 @@
         android:theme="@style/Theme.Animacion"
         tools:targetApi="31">
         <activity
+            android:name=".Varios2"
+            android:exported="false" />
+        <activity
+            android:name=".Varios1"
+            android:exported="false" />
+        <activity
+            android:name=".Rotar3"
+            android:exported="false" />
+        <activity
+            android:name=".Rotar2"
+            android:exported="false" />
+        <activity
+            android:name=".Rotar1"
+            android:exported="false" />
+        <activity
+            android:name=".Mueve2"
+            android:exported="false" />
+        <activity
+            android:name=".Mueve1"
+            android:exported="false" />
+        <activity
+            android:name=".Escala2"
+            android:exported="false" />
+        <activity
+            android:name=".Escala1"
+            android:exported="false" />
+        <activity
+            android:name=".Alfa2"
+            android:exported="false" />
+        <activity
+            android:name=".Alfa1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
